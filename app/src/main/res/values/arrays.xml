@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="colors">
+        <item>@color/sky</item>
+        <item>#FFFF0000</item>
+        <item>#FFFF9800</item>
+        <item>#FFFFFF00</item>
+        <item>#FFFF00FF</item>
+    </array>
+</resources>

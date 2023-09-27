@@ -1,0 +1,4 @@
+<resources>
+    <string name="game_over_message">Game over</string>
+    <string name="counter_default_value_text">0</string>
+</resources>
